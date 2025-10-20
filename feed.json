@@ -1,0 +1,66 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Erfgoed Wuustwezel",
+    "description": "",
+    "home_page_url": "https://erfgoedwuustwezel.be",
+    "feed_url": "https://erfgoedwuustwezel.be/feed.json",
+    "user_comment": "",
+    "icon": "https://erfgoedwuustwezel.be/media/website/Wesalia.png",
+    "author": {
+        "name": "Mathias Van Aken"
+    },
+    "items": [
+        {
+            "id": "https://erfgoedwuustwezel.be/wesalia-ii-2.html",
+            "url": "https://erfgoedwuustwezel.be/wesalia-ii-2.html",
+            "title": "Wesalia II",
+            "image": "https://erfgoedwuustwezel.be/media/posts/10005/Wesalia.png",
+            "author": {
+                "name": "Mathias Van Aken"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-11T19:57:00+02:00",
+            "date_modified": "2025-07-21T13:21:48+02:00"
+        },
+        {
+            "id": "https://erfgoedwuustwezel.be/oud-wezel-op-de-foto.html",
+            "url": "https://erfgoedwuustwezel.be/oud-wezel-op-de-foto.html",
+            "title": "Oudwezelopdefoto",
+            "image": "https://erfgoedwuustwezel.be/media/posts/10003/logooudwezelopdefoto.jpg",
+            "author": {
+                "name": "Mathias Van Aken"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-10T19:50:00+02:00",
+            "date_modified": "2025-07-10T21:26:19+02:00"
+        },
+        {
+            "id": "https://erfgoedwuustwezel.be/geschiedenis-van-loenhout.html",
+            "url": "https://erfgoedwuustwezel.be/geschiedenis-van-loenhout.html",
+            "title": "Geschiedenis van Loenhout",
+            "image": "https://erfgoedwuustwezel.be/media/posts/10002/logogeschiedenisvanloenhout.jpg",
+            "author": {
+                "name": "Mathias Van Aken"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-09T19:50:00+02:00",
+            "date_modified": "2025-07-10T21:26:08+02:00"
+        },
+        {
+            "id": "https://erfgoedwuustwezel.be/erfgoed-wuustwezel.html",
+            "url": "https://erfgoedwuustwezel.be/erfgoed-wuustwezel.html",
+            "title": "Erfgoed in Wuustwezel",
+            "image": "https://erfgoedwuustwezel.be/media/posts/10006/logo-wuustwezel-colors.jpg",
+            "author": {
+                "name": "Mathias Van Aken"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-06-08T11:11:00+02:00",
+            "date_modified": "2025-09-19T09:15:38+02:00"
+        }
+    ]
+}

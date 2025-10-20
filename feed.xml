@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Erfgoed Wuustwezel</title>
+    <link href="https://erfgoedwuustwezel.be/feed.xml" rel="self" />
+    <link href="https://erfgoedwuustwezel.be" />
+    <updated>2025-09-19T09:15:38+02:00</updated>
+    <author>
+        <name>Mathias Van Aken</name>
+    </author>
+    <id>https://erfgoedwuustwezel.be</id>
+
+    <entry>
+        <title>Wesalia II</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://erfgoedwuustwezel.be/wesalia-ii-2.html"/>
+        <id>https://erfgoedwuustwezel.be/wesalia-ii-2.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/10005/Wesalia.png" medium="image" />
+
+        <updated>2025-06-11T19:57:00+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Oudwezelopdefoto</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://erfgoedwuustwezel.be/oud-wezel-op-de-foto.html"/>
+        <id>https://erfgoedwuustwezel.be/oud-wezel-op-de-foto.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/10003/logooudwezelopdefoto.jpg" medium="image" />
+
+        <updated>2025-06-10T19:50:00+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Geschiedenis van Loenhout</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://erfgoedwuustwezel.be/geschiedenis-van-loenhout.html"/>
+        <id>https://erfgoedwuustwezel.be/geschiedenis-van-loenhout.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/10002/logogeschiedenisvanloenhout.jpg" medium="image" />
+
+        <updated>2025-06-09T19:50:00+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Erfgoed in Wuustwezel</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://erfgoedwuustwezel.be/erfgoed-wuustwezel.html"/>
+        <id>https://erfgoedwuustwezel.be/erfgoed-wuustwezel.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/10006/logo-wuustwezel-colors.jpg" medium="image" />
+
+        <updated>2025-06-08T11:11:00+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
