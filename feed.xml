@@ -3,7 +3,7 @@
     <title>Erfgoed Wuustwezel</title>
     <link href="https://erfgoedwuustwezel.be/feed.xml" rel="self" />
     <link href="https://erfgoedwuustwezel.be" />
-    <updated>2025-09-19T09:15:38+02:00</updated>
+    <updated>2025-10-31T11:46:33+01:00</updated>
     <author>
         <name>Mathias Van Aken</name>
     </author>
@@ -58,6 +58,32 @@
         <media:content url="https://erfgoedwuustwezel.be/media/posts/10006/logo-wuustwezel-colors.jpg" medium="image" />
 
         <updated>2025-06-08T11:11:00+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Erfgoeddatabank</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://erfgoedwuustwezel.be/erfgoeddatabank.html"/>
+        <id>https://erfgoedwuustwezel.be/erfgoeddatabank.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/10021/erfgoeddatabank.jpg" medium="image" />
+
+        <updated>2025-06-07T11:28:00+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Kempens Erfgoed</title>
+        <author>
+            <name>Mathias Van Aken</name>
+        </author>
+        <link href="https://erfgoedwuustwezel.be/kempens-erfgoed.html"/>
+        <id>https://erfgoedwuustwezel.be/kempens-erfgoed.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/10022/kempenserfgoed.jpg" medium="image" />
+
+        <updated>2025-06-06T11:30:00+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
