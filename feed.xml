@@ -3,7 +3,7 @@
     <title>Erfgoed Wuustwezel</title>
     <link href="https://erfgoedwuustwezel.be/feed.xml" rel="self" />
     <link href="https://erfgoedwuustwezel.be" />
-    <updated>2025-10-31T11:46:33+01:00</updated>
+    <updated>2026-02-23T21:16:37+01:00</updated>
     <author>
         <name>Mathias Van Aken</name>
     </author>
@@ -23,13 +23,13 @@
         <content></content>
     </entry>
     <entry>
-        <title>Oudwezelopdefoto</title>
+        <title>Beeldbank</title>
         <author>
             <name>Mathias Van Aken</name>
         </author>
-        <link href="https://erfgoedwuustwezel.be/oud-wezel-op-de-foto.html"/>
-        <id>https://erfgoedwuustwezel.be/oud-wezel-op-de-foto.html</id>
-        <media:content url="https://erfgoedwuustwezel.be/media/posts/10003/logooudwezelopdefoto.jpg" medium="image" />
+        <link href="https://erfgoedwuustwezel.be/beeldbank.html"/>
+        <id>https://erfgoedwuustwezel.be/beeldbank.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/10003/icoonbeeldbank.jpg" medium="image" />
 
         <updated>2025-06-10T19:50:00+02:00</updated>
             <summary></summary>
