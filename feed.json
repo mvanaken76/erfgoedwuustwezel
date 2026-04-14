@@ -1,92 +1,119 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Erfgoed Wuustwezel",
+    "title": "Erfgoed Wuustwezel - Loenhout",
     "description": "",
     "home_page_url": "https://erfgoedwuustwezel.be",
     "feed_url": "https://erfgoedwuustwezel.be/feed.json",
     "user_comment": "",
-    "icon": "https://erfgoedwuustwezel.be/media/website/Wesalia.png",
+    "icon": "https://erfgoedwuustwezel.be/media/website/Wesalia-xl.png",
     "author": {
-        "name": "Mathias Van Aken"
+        "name": "Wesalia II"
     },
     "items": [
         {
-            "id": "https://erfgoedwuustwezel.be/wesalia-ii-2.html",
-            "url": "https://erfgoedwuustwezel.be/wesalia-ii-2.html",
-            "title": "Wesalia II",
-            "image": "https://erfgoedwuustwezel.be/media/posts/10005/Wesalia.png",
+            "id": "https://erfgoedwuustwezel.be/partners.html",
+            "url": "https://erfgoedwuustwezel.be/partners.html",
+            "title": "Onze partners",
+            "summary": "Breng eens een bezoekje aan de websites van onze partners!",
+            "content_html": "<p><a href=\"https://erfgoedwuustwezel.be/tags/partners/\"></a>Breng eens een bezoekje aan de websites van onze partners!</p>",
+            "image": "https://erfgoedwuustwezel.be/media/posts/10/Wesalia-xl.png",
             "author": {
-                "name": "Mathias Van Aken"
+                "name": "Wesalia II"
             },
             "tags": [
             ],
-            "date_published": "2025-06-11T19:57:00+02:00",
-            "date_modified": "2025-07-21T13:21:48+02:00"
-        },
-        {
-            "id": "https://erfgoedwuustwezel.be/beeldbank.html",
-            "url": "https://erfgoedwuustwezel.be/beeldbank.html",
-            "title": "Beeldbank",
-            "image": "https://erfgoedwuustwezel.be/media/posts/10003/icoonbeeldbank.jpg",
-            "author": {
-                "name": "Mathias Van Aken"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-06-10T19:50:00+02:00",
-            "date_modified": "2026-02-23T21:16:37+01:00"
+            "date_published": "2026-04-11T15:37:15+02:00",
+            "date_modified": "2026-04-11T17:09:22+02:00"
         },
         {
             "id": "https://erfgoedwuustwezel.be/geschiedenis-van-loenhout.html",
             "url": "https://erfgoedwuustwezel.be/geschiedenis-van-loenhout.html",
             "title": "Geschiedenis van Loenhout",
-            "image": "https://erfgoedwuustwezel.be/media/posts/10002/logogeschiedenisvanloenhout.jpg",
+            "summary": "De geschiedenis van het dorp Loenhout, met een volledige bevolkingssamenstelling sinds 1500, alsook tienduizenden gedigitaliseerde archiefstukken.",
+            "content_html": "<p>De geschiedenis van het dorp Loenhout, met een volledige bevolkingssamenstelling sinds 1500, alsook tienduizenden gedigitaliseerde archiefstukken.</p>",
+            "image": "https://erfgoedwuustwezel.be/media/posts/6/002-2xl.jpg",
             "author": {
-                "name": "Mathias Van Aken"
+                "name": "Wesalia II"
             },
             "tags": [
             ],
-            "date_published": "2025-06-09T19:50:00+02:00",
-            "date_modified": "2025-07-10T21:26:08+02:00"
+            "date_published": "2026-04-11T14:37:22+02:00",
+            "date_modified": "2026-04-11T17:04:57+02:00"
         },
         {
-            "id": "https://erfgoedwuustwezel.be/erfgoed-wuustwezel.html",
-            "url": "https://erfgoedwuustwezel.be/erfgoed-wuustwezel.html",
-            "title": "Erfgoed in Wuustwezel",
-            "image": "https://erfgoedwuustwezel.be/media/posts/10006/logo-wuustwezel-colors.jpg",
+            "id": "https://erfgoedwuustwezel.be/bidprentjes.html",
+            "url": "https://erfgoedwuustwezel.be/bidprentjes.html",
+            "title": "Bidprentjes, doodsbrieven",
+            "summary": "Wesalia II heeft een verzameling van meer dan 100.000 bidprentjes, doodsbrieven en overlijdensberichten. Op deze bladzijde vindt u een overzicht met alle informatie per overledene.",
+            "content_html": "<p>Wesalia II heeft een verzameling van meer dan 100.000 bidprentjes, doodsbrieven en overlijdensberichten. Op deze bladzijde vindt u een overzicht met alle informatie per overledene.</p>",
+            "image": "https://erfgoedwuustwezel.be/media/posts/5/bidprentje-lg.jpg",
             "author": {
-                "name": "Mathias Van Aken"
+                "name": "Wesalia II"
             },
             "tags": [
             ],
-            "date_published": "2025-06-08T11:11:00+02:00",
-            "date_modified": "2025-09-19T09:15:38+02:00"
+            "date_published": "2026-04-11T14:36:13+02:00",
+            "date_modified": "2026-04-11T17:20:52+02:00"
         },
         {
-            "id": "https://erfgoedwuustwezel.be/erfgoeddatabank.html",
-            "url": "https://erfgoedwuustwezel.be/erfgoeddatabank.html",
-            "title": "Erfgoeddatabank",
-            "image": "https://erfgoedwuustwezel.be/media/posts/10021/erfgoeddatabank.jpg",
+            "id": "https://erfgoedwuustwezel.be/documenten.html",
+            "url": "https://erfgoedwuustwezel.be/documenten.html",
+            "title": "Documenten",
+            "summary": "Hier vindt u boeken, tijdschriften en andere documenten in bezit van Wesalia II. De documenten staan ter beschikking in PDF-formaat en zijn doorzoekbaar gemaakt. We zijn volop nieuwe documenten aan het inscannen, dus kom zeker geregeld nog eens kijken!",
+            "content_html": "<p>Hier vindt u boeken, tijdschriften en andere documenten in bezit van Wesalia II. De documenten staan ter beschikking in PDF-formaat en zijn doorzoekbaar gemaakt. We zijn volop nieuwe documenten aan het inscannen, dus kom zeker geregeld nog eens kijken!</p>",
+            "image": "https://erfgoedwuustwezel.be/media/posts/4/documentfoto-000189-lg.jpg",
             "author": {
-                "name": "Mathias Van Aken"
+                "name": "Wesalia II"
             },
             "tags": [
             ],
-            "date_published": "2025-06-07T11:28:00+02:00",
-            "date_modified": "2025-10-31T11:46:20+01:00"
+            "date_published": "2026-04-11T14:33:00+02:00",
+            "date_modified": "2026-04-11T17:05:08+02:00"
         },
         {
-            "id": "https://erfgoedwuustwezel.be/kempens-erfgoed.html",
-            "url": "https://erfgoedwuustwezel.be/kempens-erfgoed.html",
-            "title": "Kempens Erfgoed",
-            "image": "https://erfgoedwuustwezel.be/media/posts/10022/kempenserfgoed.jpg",
+            "id": "https://erfgoedwuustwezel.be/films.html",
+            "url": "https://erfgoedwuustwezel.be/films.html",
+            "title": "Films",
+            "summary": "Hier vindt u het filmarchief van Wesalia II. Het is een verzameling van films die bij ons zijn terechtgekomen. Heeft u zelf nog interessante filmpjes? Laat zeker even weten!",
+            "content_html": "<p>Hier vindt u het filmarchief van Wesalia II. Het is een verzameling van films die bij ons zijn terechtgekomen. Heeft u zelf nog interessante filmpjes? <a href=\"https://erfgoedwuustwezel.be/contact.html\">Laat zeker even weten</a>!</p>",
+            "image": "https://erfgoedwuustwezel.be/media/posts/3/video-000265-lg.jpg",
             "author": {
-                "name": "Mathias Van Aken"
+                "name": "Wesalia II"
             },
             "tags": [
             ],
-            "date_published": "2025-06-06T11:30:00+02:00",
-            "date_modified": "2025-10-31T11:46:33+01:00"
+            "date_published": "2026-04-11T14:32:40+02:00",
+            "date_modified": "2026-04-11T17:04:40+02:00"
+        },
+        {
+            "id": "https://erfgoedwuustwezel.be/beeldbank.html",
+            "url": "https://erfgoedwuustwezel.be/beeldbank.html",
+            "title": "Beeldbank",
+            "summary": "Hier vindt u de beeldbank van Wesalia II. Het bevat alle foto’s die tot hiertoe op Oudwezelopdefoto stonden, samen met foto’s van Wesalia II. We zijn volop nieuwe foto’s aan het inscannen, dus kom af en toe een kijkje nemen.",
+            "content_html": "<p>Hier vindt u de beeldbank van Wesalia II. Het bevat alle foto’s die tot hiertoe op Oudwezelopdefoto stonden, samen met foto’s van Wesalia II. We zijn volop nieuwe foto’s aan het inscannen, dus kom af en toe een kijkje nemen.</p>",
+            "image": "https://erfgoedwuustwezel.be/media/posts/2/foto-005540-lg.jpg",
+            "author": {
+                "name": "Wesalia II"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-11T14:29:23+02:00",
+            "date_modified": "2026-04-11T17:04:46+02:00"
+        },
+        {
+            "id": "https://erfgoedwuustwezel.be/wesalia-ii.html",
+            "url": "https://erfgoedwuustwezel.be/wesalia-ii.html",
+            "title": "Wesalia II",
+            "summary": "Meer informatie over de werking van de Heemkundige Kring Wesalia II.",
+            "content_html": "<p>Meer informatie over de werking van de Heemkundige Kring Wesalia II.</p>",
+            "image": "https://erfgoedwuustwezel.be/media/posts/1/Wesalia-xl.png",
+            "author": {
+                "name": "Wesalia II"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-11T14:28:51+02:00",
+            "date_modified": "2026-04-11T17:16:08+02:00"
         }
     ]
 }

@@ -1,90 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Erfgoed Wuustwezel</title>
+    <title>Erfgoed Wuustwezel - Loenhout</title>
     <link href="https://erfgoedwuustwezel.be/feed.xml" rel="self" />
     <link href="https://erfgoedwuustwezel.be" />
-    <updated>2026-02-23T21:16:37+01:00</updated>
+    <updated>2026-04-11T17:20:52+02:00</updated>
     <author>
-        <name>Mathias Van Aken</name>
+        <name>Wesalia II</name>
     </author>
     <id>https://erfgoedwuustwezel.be</id>
 
     <entry>
-        <title>Wesalia II</title>
+        <title>Onze partners</title>
         <author>
-            <name>Mathias Van Aken</name>
+            <name>Wesalia II</name>
         </author>
-        <link href="https://erfgoedwuustwezel.be/wesalia-ii-2.html"/>
-        <id>https://erfgoedwuustwezel.be/wesalia-ii-2.html</id>
-        <media:content url="https://erfgoedwuustwezel.be/media/posts/10005/Wesalia.png" medium="image" />
+        <link href="https://erfgoedwuustwezel.be/partners.html"/>
+        <id>https://erfgoedwuustwezel.be/partners.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/10/Wesalia-xl.png" medium="image" />
 
-        <updated>2025-06-11T19:57:00+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Beeldbank</title>
-        <author>
-            <name>Mathias Van Aken</name>
-        </author>
-        <link href="https://erfgoedwuustwezel.be/beeldbank.html"/>
-        <id>https://erfgoedwuustwezel.be/beeldbank.html</id>
-        <media:content url="https://erfgoedwuustwezel.be/media/posts/10003/icoonbeeldbank.jpg" medium="image" />
-
-        <updated>2025-06-10T19:50:00+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2026-04-11T15:37:15+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://erfgoedwuustwezel.be/media/posts/10/Wesalia-xl.png" alt="" />
+                    Breng eens een bezoekje aan de websites van onze partners!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://erfgoedwuustwezel.be/media/posts/10/Wesalia-xl.png" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://erfgoedwuustwezel.be/tags/partners/"></a>Breng eens een bezoekje aan de websites van onze partners!</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Geschiedenis van Loenhout</title>
         <author>
-            <name>Mathias Van Aken</name>
+            <name>Wesalia II</name>
         </author>
         <link href="https://erfgoedwuustwezel.be/geschiedenis-van-loenhout.html"/>
         <id>https://erfgoedwuustwezel.be/geschiedenis-van-loenhout.html</id>
-        <media:content url="https://erfgoedwuustwezel.be/media/posts/10002/logogeschiedenisvanloenhout.jpg" medium="image" />
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/6/002-2xl.jpg" medium="image" />
 
-        <updated>2025-06-09T19:50:00+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2026-04-11T14:37:22+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://erfgoedwuustwezel.be/media/posts/6/002-2xl.jpg" alt="" />
+                    De geschiedenis van het dorp Loenhout, met een volledige bevolkingssamenstelling sinds 1500, alsook tienduizenden gedigitaliseerde archiefstukken.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://erfgoedwuustwezel.be/media/posts/6/002-2xl.jpg" class="type:primaryImage" alt="" /></p>
+                <p>De geschiedenis van het dorp Loenhout, met een volledige bevolkingssamenstelling sinds 1500, alsook tienduizenden gedigitaliseerde archiefstukken.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Erfgoed in Wuustwezel</title>
+        <title>Bidprentjes, doodsbrieven</title>
         <author>
-            <name>Mathias Van Aken</name>
+            <name>Wesalia II</name>
         </author>
-        <link href="https://erfgoedwuustwezel.be/erfgoed-wuustwezel.html"/>
-        <id>https://erfgoedwuustwezel.be/erfgoed-wuustwezel.html</id>
-        <media:content url="https://erfgoedwuustwezel.be/media/posts/10006/logo-wuustwezel-colors.jpg" medium="image" />
+        <link href="https://erfgoedwuustwezel.be/bidprentjes.html"/>
+        <id>https://erfgoedwuustwezel.be/bidprentjes.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/5/bidprentje-lg.jpg" medium="image" />
 
-        <updated>2025-06-08T11:11:00+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2026-04-11T14:36:13+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://erfgoedwuustwezel.be/media/posts/5/bidprentje-lg.jpg" alt="" />
+                    Wesalia II heeft een verzameling van meer dan 100.000 bidprentjes, doodsbrieven en overlijdensberichten. Op deze bladzijde vindt u een overzicht met alle informatie per overledene.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://erfgoedwuustwezel.be/media/posts/5/bidprentje-lg.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Wesalia II heeft een verzameling van meer dan 100.000 bidprentjes, doodsbrieven en overlijdensberichten. Op deze bladzijde vindt u een overzicht met alle informatie per overledene.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Erfgoeddatabank</title>
+        <title>Documenten</title>
         <author>
-            <name>Mathias Van Aken</name>
+            <name>Wesalia II</name>
         </author>
-        <link href="https://erfgoedwuustwezel.be/erfgoeddatabank.html"/>
-        <id>https://erfgoedwuustwezel.be/erfgoeddatabank.html</id>
-        <media:content url="https://erfgoedwuustwezel.be/media/posts/10021/erfgoeddatabank.jpg" medium="image" />
+        <link href="https://erfgoedwuustwezel.be/documenten.html"/>
+        <id>https://erfgoedwuustwezel.be/documenten.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/4/documentfoto-000189-lg.jpg" medium="image" />
 
-        <updated>2025-06-07T11:28:00+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2026-04-11T14:33:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://erfgoedwuustwezel.be/media/posts/4/documentfoto-000189-lg.jpg" alt="" />
+                    Hier vindt u boeken, tijdschriften en andere documenten in bezit van Wesalia II. De documenten staan ter beschikking in PDF-formaat en zijn doorzoekbaar gemaakt. We zijn volop nieuwe documenten aan het inscannen, dus kom zeker geregeld nog eens kijken!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://erfgoedwuustwezel.be/media/posts/4/documentfoto-000189-lg.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Hier vindt u boeken, tijdschriften en andere documenten in bezit van Wesalia II. De documenten staan ter beschikking in PDF-formaat en zijn doorzoekbaar gemaakt. We zijn volop nieuwe documenten aan het inscannen, dus kom zeker geregeld nog eens kijken!</p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>Kempens Erfgoed</title>
+        <title>Films</title>
         <author>
-            <name>Mathias Van Aken</name>
+            <name>Wesalia II</name>
         </author>
-        <link href="https://erfgoedwuustwezel.be/kempens-erfgoed.html"/>
-        <id>https://erfgoedwuustwezel.be/kempens-erfgoed.html</id>
-        <media:content url="https://erfgoedwuustwezel.be/media/posts/10022/kempenserfgoed.jpg" medium="image" />
+        <link href="https://erfgoedwuustwezel.be/films.html"/>
+        <id>https://erfgoedwuustwezel.be/films.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/3/video-000265-lg.jpg" medium="image" />
 
-        <updated>2025-06-06T11:30:00+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2026-04-11T14:32:40+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://erfgoedwuustwezel.be/media/posts/3/video-000265-lg.jpg" alt="" />
+                    Hier vindt u het filmarchief van Wesalia II. Het is een verzameling van films die bij ons zijn terechtgekomen. Heeft u zelf nog interessante filmpjes? Laat zeker even weten!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://erfgoedwuustwezel.be/media/posts/3/video-000265-lg.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Hier vindt u het filmarchief van Wesalia II. Het is een verzameling van films die bij ons zijn terechtgekomen. Heeft u zelf nog interessante filmpjes? <a href="https://erfgoedwuustwezel.be/contact.html">Laat zeker even weten</a>!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Beeldbank</title>
+        <author>
+            <name>Wesalia II</name>
+        </author>
+        <link href="https://erfgoedwuustwezel.be/beeldbank.html"/>
+        <id>https://erfgoedwuustwezel.be/beeldbank.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/2/foto-005540-lg.jpg" medium="image" />
+
+        <updated>2026-04-11T14:29:23+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://erfgoedwuustwezel.be/media/posts/2/foto-005540-lg.jpg" alt="" />
+                    Hier vindt u de beeldbank van Wesalia II. Het bevat alle foto’s die tot hiertoe op Oudwezelopdefoto stonden, samen met foto’s van Wesalia II. We zijn volop nieuwe foto’s aan het inscannen, dus kom af en toe een kijkje nemen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://erfgoedwuustwezel.be/media/posts/2/foto-005540-lg.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Hier vindt u de beeldbank van Wesalia II. Het bevat alle foto’s die tot hiertoe op Oudwezelopdefoto stonden, samen met foto’s van Wesalia II. We zijn volop nieuwe foto’s aan het inscannen, dus kom af en toe een kijkje nemen.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Wesalia II</title>
+        <author>
+            <name>Wesalia II</name>
+        </author>
+        <link href="https://erfgoedwuustwezel.be/wesalia-ii.html"/>
+        <id>https://erfgoedwuustwezel.be/wesalia-ii.html</id>
+        <media:content url="https://erfgoedwuustwezel.be/media/posts/1/Wesalia-xl.png" medium="image" />
+
+        <updated>2026-04-11T14:28:51+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://erfgoedwuustwezel.be/media/posts/1/Wesalia-xl.png" alt="" />
+                    Meer informatie over de werking van de Heemkundige Kring Wesalia II.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://erfgoedwuustwezel.be/media/posts/1/Wesalia-xl.png" class="type:primaryImage" alt="" /></p>
+                <p>Meer informatie over de werking van de Heemkundige Kring Wesalia II.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
